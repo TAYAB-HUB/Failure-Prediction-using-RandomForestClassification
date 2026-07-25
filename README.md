@@ -7,7 +7,7 @@ Predicting patient survival risk from clinical follow-up records using a class-w
 ![Streamlit](https://img.shields.io/badge/Streamlit-Deployed-red)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-🔗 **[Live Demo](#)** &nbsp;•&nbsp; 📓 **[Notebook](#)** &nbsp;•&nbsp; 📊 **[Dataset](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)**
+🔗 **[Live Demo](https://tayab-heart-failure-prediction.streamlit.app/)** &nbsp;•&nbsp; 📓 **[Notebook](#)** &nbsp;•&nbsp; 📊 **[Dataset](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)**
 
 ---
 
@@ -91,8 +91,8 @@ An interactive app for entering patient clinical data and getting a live risk pr
 - Sidebar with model performance (including the honest cross-validation variance) and the "Follow-up Time" limitation
 - Session-based prediction history
 
-![Streamlit App Screenshot](assets/streamlit_app.png)
-*Add a screenshot of your running app here.*
+![Streamlit App Screenshot](webapp_screenshot.png)
+
 
 ### Run locally
 
